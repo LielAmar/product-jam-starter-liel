@@ -11,6 +11,8 @@
 
 * {
   margin: 0;
+
+  background-color: rgb(230, 255, 252);
 }
 
 body {
@@ -302,4 +304,12 @@ button, a.button {
 .demo-notes {
   background-color: var(--demo);
   font-size: 0.875rem;
+}
+
+h1 {
+  font-size: 5rem;
+}
+
+p {
+  font-family: 'Times New Roman', Times, serif;
 }
